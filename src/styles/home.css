@@ -1,0 +1,33 @@
+.hero_section {
+    background-color: var(--hero-bg);
+    display: flex;
+    align-items: center;
+    height: calc(100vh - 200px);
+}
+
+.trending {
+    font-weight: 600;
+}
+
+.title_hero {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.p_hero {
+    color: #0a1d37de;
+    font-weight: 500;
+}
+
+.img_hero {
+    max-width: 100%;
+}
+
+@media (max-width: 991px) {
+    .title_hero {
+        font-size: 30px;
+    }
+    .p_hero {
+        font-size: 15px;
+    }
+}

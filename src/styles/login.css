@@ -1,0 +1,28 @@
+.login {
+    margin: 90px 0;
+}
+
+.title_login {
+    font-weight: 600;
+}
+
+.form_login {
+    width: 90%;
+    max-width: 550px;
+    margin: auto;
+    background-color: var(--primary-color);
+    border-radius: 5px;
+    color: white;
+    padding: 30px;
+}
+
+.form_login input {
+    width: 100%;
+    margin: 15px 0;
+    padding: 8px 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+
+ 

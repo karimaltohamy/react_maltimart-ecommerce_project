@@ -1,0 +1,20 @@
+.footer {
+    background-color: var(--primary-color);
+}
+
+.list-group-title {
+    color: white;
+    font-weight: 500;
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+
+.footer .list-group-item {
+    color: var(--small-text-color);
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+.footer .list-group-item a:hover {
+    color: var(--small-text-color);
+}

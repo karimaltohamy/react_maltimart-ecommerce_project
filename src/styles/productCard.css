@@ -1,0 +1,37 @@
+.product_card_img {
+    height: 300px;
+}
+
+.title_product {
+    margin-top: 15px;
+    font-size: 18px;
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.type_catigory {
+    color: var(--small-text-color);
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.price {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.add_cart_btn {
+    border: none;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    background-color: var(--primary-color);
+    color: white;
+    border-radius: 50%;
+}
+
+.add_cart_btn i {
+    font-size: 18px;
+}

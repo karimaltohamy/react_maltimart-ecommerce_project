@@ -1,0 +1,24 @@
+.img_cart_item {
+    width: 100px;
+}
+
+.delete {
+    cursor: pointer;
+}
+
+.Subtotal {
+    font-weight: 500;
+}
+
+.total_amount {
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.text_total_amount {
+    font-size: 16px;
+}
+
+.w-fitContent {
+    width: fit-content;
+}
